@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/048_Clarusway_Web_Page_With_Router/static/css/main.2c2e64d9.css",
+    "main.js": "/048_Clarusway_Web_Page_With_Router/static/js/main.ae22f913.js",
+    "static/media/showcase.jpg": "/048_Clarusway_Web_Page_With_Router/static/media/showcase.1787af9cb8739b0cc98f.jpg",
+    "static/media/logo_css.png": "/048_Clarusway_Web_Page_With_Router/static/media/logo_css.fda2b7505db8ce5ff3ab.png",
+    "static/media/logo_html.png": "/048_Clarusway_Web_Page_With_Router/static/media/logo_html.8076298e3862c5885c05.png",
+    "index.html": "/048_Clarusway_Web_Page_With_Router/index.html",
+    "main.2c2e64d9.css.map": "/048_Clarusway_Web_Page_With_Router/static/css/main.2c2e64d9.css.map",
+    "main.ae22f913.js.map": "/048_Clarusway_Web_Page_With_Router/static/js/main.ae22f913.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c2e64d9.css",
+    "static/js/main.ae22f913.js"
+  ]
+}
